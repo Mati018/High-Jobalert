@@ -1,6 +1,6 @@
 # High-Jobalert
 
-High Jobaler project is web application built using PHP, MySQL as backend and HTML JavaScript & Bootstrap as Frontend technologies.
+High Jobalert project is web application built using PHP, MySQL as backend and HTML JavaScript & Bootstrap as Frontend technologies.
 
 ## Run Locally
 
